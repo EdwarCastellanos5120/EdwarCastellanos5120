@@ -1,8 +1,8 @@
 
 # Hello👋 
-My name is Edwar Castellanos, I am 19 years old, I am a Systems Engineering student at the Mariano Galvez University of Guatemala, I really like learning new technologies and innovating in my personal projects.
+#### My name is Edwar Castellanos, I am 19 years old, I am a Systems Engineering student at the Mariano Galvez University of Guatemala, I really like learning new technologies and innovating in my personal projects.
 
-I have learned through courses on different platforms such as Udemy, Platzi and I have also acquired knowledge at the university.
+#### I have learned through courses on different platforms such as Udemy, Platzi and I have also acquired knowledge at the university.
 
 # Statistics  📊 
 <div style="display: inline_block" align="center"><br>
@@ -27,6 +27,5 @@ I have learned through courses on different platforms such as Udemy, Platzi and 
 <a href="https://www.instagram.com/edwar_castellanos18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href=https://www.linkedin.com/in/edwar-alejandro-castellanos-portillo-5a444a229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:ecastellanosp1@miumg.edu.gt"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
+
 </div>
