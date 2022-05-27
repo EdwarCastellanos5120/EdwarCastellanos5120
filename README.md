@@ -24,7 +24,7 @@
 <ul>
   <li><a href="https://github.com/EdwarCastellanos5120/TelegramBot">TelegramBot - Aerolínea Quetzal✈️</li>
   <li><a href="https://github.com/EdwarCastellanos5120/ControlClientesSpring">Control de Personas - Manejo de Informacion de Personas📗</li>
-    li><a href="https://github.com/EdwarCastellanos5120/CalculadoraBasicJs">Calculadora Basica🧮</li>
+    <li><a href="https://github.com/EdwarCastellanos5120/CalculadoraBasicJs">Calculadora Basica🧮</li>
 </ul>
 
 
