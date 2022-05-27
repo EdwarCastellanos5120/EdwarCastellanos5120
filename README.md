@@ -1,10 +1,10 @@
 
-# Hello👋 
-#### My name is Edwar Castellanos, I am 19 years old, I am a Systems Engineering student at the Mariano Galvez University of Guatemala, I really like learning new technologies and innovating in my personal projects.
+#  Console.WriteLine("Hola👋"); 
+#### Mi nombre es Edwar Castellanos, tengo 19 años, soy estudiante de Ingeniería en Sistemas de la Universidad Mariano Gálvez de Guatemala, me gusta mucho aprender nuevas tecnologías e innovar en mis proyectos personales.
 
-#### I have learned through courses on different platforms such as Udemy, Platzi and I have also acquired knowledge at the university.
+#### He aprendido a través de cursos en diferentes plataformas como Udemy, Platzi y también he adquirido conocimientos en la universidad.
 
-# Technologies 🔝
+# Tecnologias 🔝
   
   <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
@@ -20,14 +20,22 @@
   
 </div>
 
-# Statistics  📊 
+# Proyectos 🧑‍💻
+<ul>
+  <li><a href="https://github.com/EdwarCastellanos5120/TelegramBot">TelegramBot - Aerolínea Quetzal✈️</li>
+  <li><a href="https://github.com/EdwarCastellanos5120/ControlClientesSpring">Control de Personas - Manejo de Informacion de Personas📗</li>
+    li><a href="https://github.com/EdwarCastellanos5120/CalculadoraBasicJs">Calculadora Basica🧮</li>
+</ul>
+
+
+# Estadisticas  📊 
 <div style="display: block" align="center"><br>
   <a href="https://github.com/EdwarCastellanos5120">
     <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=EdwarCastellanos5120&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwarCastellanos5120&layout=compact&langs_count=7&theme=codeSTACKr&count_private=true"/>
 </div>
 
-# Contact Me 🗨
+# Contacto 🗨
 <div style="display: inline_block" align="center"><br>
 <a href="https://www.instagram.com/edwar_castellanos18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href=https://www.linkedin.com/in/edwar-alejandro-castellanos-portillo-5a444a229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
