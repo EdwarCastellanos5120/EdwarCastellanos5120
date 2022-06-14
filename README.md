@@ -25,6 +25,7 @@
   <li><a href="https://github.com/EdwarCastellanos5120/TelegramBot">TelegramBot - Aerolínea Quetzal✈️</li>
   <li><a href="https://github.com/EdwarCastellanos5120/ControlClientesSpring">Control de Personas - Manejo de Informacion de Personas📗</li>
     <li><a href="https://github.com/EdwarCastellanos5120/CalculadoraBasicJs">Calculadora Basica🧮</li>
+      <li><a href="https://github.com/EdwarCastellanos5120/CONTROLCLIENTES_ASP.NET_6">Control y Manejo de Clientes - Login y Cookies</li>
 </ul>
 
 
