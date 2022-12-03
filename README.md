@@ -5,7 +5,7 @@
 #### He aprendido a través de cursos en diferentes plataformas como Udemy, Platzi y también he adquirido conocimientos en la universidad.
 
 # Tecnologias 🔝
-  
+ 
   <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
