@@ -34,12 +34,8 @@
 <div style="display: block" align="center"><br>
   <a href="https://github.com/EdwarCastellanos5120">
     <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=EdwarCastellanos5120&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwarCastellanos5120&layout=compact&langs_count=7&theme=codeSTACKr&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwarCastellanos5120&layout=langs_count=&langs_count=7&theme=codeSTACKr&count_private=true"/>
     
- <a href="https://github.com/EdwarCastellanos5120"><img src="(https://activity-graph.herokuapp.com/graph?username=EdwarCastellanos5120)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Commits Graph"/></a>
-    
-<a href="https://github.com/EdwarCastellanos5120"><img src="https://activity-graph.herokuapp.com/graph?username=EdwarCastellanos5120&bg_color=09131b&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</div>
 
 # Contacto 🗨
 <div style="display: inline_block" align="center"><br>
