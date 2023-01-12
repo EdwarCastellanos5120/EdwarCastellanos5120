@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/EdwarCastellanos5120/SQL/blob/main/RECURSOS/logoSQLSERVER.png">
  <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
- <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg>
+ <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
 
   
 </div>
