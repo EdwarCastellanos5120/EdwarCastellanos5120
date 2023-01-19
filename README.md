@@ -4,7 +4,8 @@
 
 ## Technologies 💻🔎
 
-#### FRONT-END TECHNOLOGIES 🧩
+
+### FRONT-END TECHNOLOGIES 🧩
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
@@ -12,12 +13,22 @@
 ![Less](https://img.shields.io/badge/Less-1572B6?style=for-the-badge&logo=less&logoColor=white "LESS")
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
 
-#### BACK-END TECHNOLOGIES ⚙️
+### BACK-END TECHNOLOGIES ⚙️
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white "C#")
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white ".NET")
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=ASP.NET&logoColor=white "ASP.NET")
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Java")
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white "Spring")
-![.ASP](https://img.shields.io/badge/.ASP-5C2D91?style=for-the-badge&logo=.asp.net&logoColor=white ".ASP")
+
+### DATABASES 📅
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")
+![SQL SERVER](https://img.shields.io/badge/SQLSERVER-F7DF1E?style=for-the-badge&logo=SQLSERVER&logoColor=black "SQLSERVER")
+
+### CLOUDS ☁️
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-%23000000.svg?style=for-the-badge&logo=github&logoColor=#00C7B7 "Github Pages")
+
 
 ####
 <div style="display: inline_block" align="center"><br>
