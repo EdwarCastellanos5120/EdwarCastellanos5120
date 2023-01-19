@@ -38,13 +38,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Visual Studio Code")
 ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white "Netbeans")
 
-# Statistics 📊
+##  Statistics 📊
 
 <div style="display: block" align="center"><br>
   <a href="https://github.com/EdwarCastellanos5120">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwarCastellanos5120&layout=compact&langs_count=7&theme=codeSTACKr&count_private=true"/>
 
-# Contact 🗨
+##  Contact 🗨
 
 <div style="display: inline_block" align="center"><br>
 <a href=https://www.linkedin.com/in/edwar-alejandro-castellanos-portillo-5a444a229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
