@@ -4,7 +4,6 @@
 
 ## Technologies 💻🔎
 
-
 ### FRONT-END TECHNOLOGIES 🧩
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
@@ -29,13 +28,24 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-%23000000.svg?style=for-the-badge&logo=github&logoColor=#00C7B7 "Github Pages")
 
+### DEVOPS TOOLS 🛠️
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")
+
 ### CODE EDITOR & IDES 📄
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Visual Studio Code")
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "Visual Studio")
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Visual Studio Code")
 ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white "Netbeans")
 
+# Statistics 📊
 
-# Proyectos 🧑‍💻
+<div style="display: block" align="center"><br>
+  <a href="https://github.com/EdwarCastellanos5120">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwarCastellanos5120&layout=compact&langs_count=7&theme=codeSTACKr&count_private=true"/>
+
+
+# Personal Projects 🧑‍💻
 
 <ul>
   <li><a href="https://github.com/EdwarCastellanos5120/TelegramBot">TelegramBot - Aerolínea Quetzal✈️</li>
@@ -44,13 +54,7 @@
       <li><a href="https://github.com/EdwarCastellanos5120/CONTROLCLIENTES_ASP.NET_6">Control y Manejo de Clientes✅ - Login y Cookies 🍪</li>
 </ul>
 
-# Estadisticas 📊
-
-<div style="display: block" align="center"><br>
-  <a href="https://github.com/EdwarCastellanos5120">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwarCastellanos5120&layout=compact&langs_count=7&theme=codeSTACKr&count_private=true"/>
-
-# Contacto 🗨
+# Contact 🗨
 
 <div style="display: inline_block" align="center"><br>
 <a href="https://www.instagram.com/edwar_castellanos18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
