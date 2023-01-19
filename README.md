@@ -29,22 +29,11 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-%23000000.svg?style=for-the-badge&logo=github&logoColor=#00C7B7 "Github Pages")
 
+### CODE EDITOR & IDES 📄
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Visual Studio Code")
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "Visual Studio")
+![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white "Netbeans")
 
-####
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-HTML" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Rafa-Csharp" height="60" width="75" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg">
-  <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/EdwarCastellanos5120/SQL/blob/main/RECURSOS/logoSQLSERVER.png">
-  <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-</div>
 
 # Proyectos 🧑‍💻
 
