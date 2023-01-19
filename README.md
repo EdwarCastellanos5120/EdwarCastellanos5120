@@ -7,14 +7,14 @@
 # Tecnologias 🔝
  
   <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-HTML" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Rafa-Csharp" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-   <img align="center" alt="Rafa-Csharp" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="60" width="75" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+   <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/EdwarCastellanos5120/SQL/blob/main/RECURSOS/logoSQLSERVER.png">
  <img align="center" alt="Rafa-Csharp" height="65" width="75" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
