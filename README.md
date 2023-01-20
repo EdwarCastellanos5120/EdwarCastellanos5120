@@ -39,10 +39,14 @@
 ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white "Netbeans")
 
 ##  Statistics 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
-<div style="display: block" align="center"><br>
-  <a href="https://github.com/EdwarCastellanos5120">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwarCastellanos5120&layout=compact&langs_count=7&theme=codeSTACKr&count_private=true"/>
+
 
 ##  Contact 🗨
 
