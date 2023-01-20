@@ -45,6 +45,8 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![OpenBootCamp](https://img.shields.io/badge/OpenBootCamp-1572B6?style=for-the-badge&logo=OpenBootCamp&logoColor=black "OpenBootCamp")
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 ##  Statistics 📊
 <div style="display: inline;">
