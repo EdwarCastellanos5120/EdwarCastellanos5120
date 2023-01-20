@@ -38,6 +38,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Visual Studio Code")
 ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white "Netbeans")
 
+###  MY LEARNING RESOURCES 🙏
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+![OpenBootCamp](https://img.shields.io/badge/OpenBootCamp-1572B6?style=for-the-badge&logo=OpenBootCamp&logoColor=black "OpenBootCamp")
+
 ##  Statistics 📊
 <div style="display: inline;">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=EdwarCastellanos5120&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
