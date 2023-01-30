@@ -62,12 +62,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdwarCastellanos5120&repo=ControlClientesSpring&theme=algolia" />
 </div>
 
-
-
-##  Contact 🗨
-
-<div style="display: inline_block" align="center"><br>
-<a href=https://www.linkedin.com/in/edwar-alejandro-castellanos-portillo-5a444a229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:ecastellanosp1@miumg.edu.gt"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
