@@ -62,6 +62,6 @@
 ##  Repositories 🌐
 <div style="display: inline;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdwarCastellanos5120&repo=TelegramBot&theme=algolia" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdwarCastellanos5120&repo=ControlClientesSpring&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdwarCastellanos5120&repo=API-BASIC-SALES&theme=algolia" />
 </div>
 
